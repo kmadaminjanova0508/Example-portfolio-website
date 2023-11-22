@@ -1,3 +1,5 @@
+//This is About page 
+
 import React from 'react';
 //countup
 import CountUp from 'react-countup';

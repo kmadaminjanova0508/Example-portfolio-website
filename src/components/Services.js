@@ -1,3 +1,5 @@
+//Servises page
+
 import React from 'react';
 //icon
 import { BsArrowUpRight } from 'react-icons/bs';

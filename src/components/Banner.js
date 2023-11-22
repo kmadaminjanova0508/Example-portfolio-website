@@ -1,3 +1,5 @@
+//This is code for page Banner 
+
 import React from 'react';
 //images
 import Image from '../assets/avatar.svg';
